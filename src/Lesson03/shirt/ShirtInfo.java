@@ -1,4 +1,4 @@
-package Lesson03;
+package Lesson03.shirt;
 
 
 public class ShirtInfo {
